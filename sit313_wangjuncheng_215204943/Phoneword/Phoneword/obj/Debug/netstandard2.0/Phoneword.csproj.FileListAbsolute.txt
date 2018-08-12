@@ -1,0 +1,12 @@
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\王浚丞\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
